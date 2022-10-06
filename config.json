@@ -2,5 +2,5 @@
 	"ip":"phongas.aternos.me",
 	"port": "21836",
 	"name": "admin",
-	"auto-night-skip":"true"
+	"auto-night-skip":"false"
 }
